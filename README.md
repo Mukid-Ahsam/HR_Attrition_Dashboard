@@ -19,3 +19,6 @@ The objective of this project is to analyze employee attrition patterns across v
 - Show the Attrition by Marital Status (Use Bar-Chart)
 - Filter/Slicer 1: Education Wise
 - Filter/Slicer 2: Department Wise
+
+## Dashboard Interaction
+- < a href="https://github.com/Mukid-Ahsam/HR_Attrition_Dashboard/blob/main/HR%20Attrition%20Dashboard%20Image.png">View Dashboard<a/>
