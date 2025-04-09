@@ -29,6 +29,18 @@ The objective of this project is to analyze employee attrition patterns across v
 -	Added slicers to allow users to filter by department and education level for dynamic data exploration.
 -	Organized KPIs, charts, and visuals into a single dashboard sheet with consistent styling and layout for a professional look.
 
+## Project Insights
+-	16% of employees have left the organization, indicating a moderate level of turnover.
+-	Employees with Bachelor’s Degrees had the highest attrition count, followed by those with Master’s and Associate’s degrees.
+-	Laboratory Technicians, Sales Executives, and Research Scientists are the top roles affected by attrition.
+-	The R&D department accounts for the highest attrition (56%), followed by Sales (39%).
+-	Single employees show higher attrition rates compared to married and divorced staff.
+-	The 25–34 age group has the most attrition, suggesting potential dissatisfaction or early career mobility.
+-	While males represent a slightly higher portion of the workforce, both genders experience similar attrition patterns.
+
+## Concution
+By identifying these trends, HR teams can take proactive steps to address underlying issues—such as job satisfaction, workload, or career development opportunities—and implement targeted retention strategies. This dashboard demonstrates the power of Excel as a tool for data-driven decision-making in HR analytics.
+
 
 ## Dashboard Interaction
 - <a href="https://github.com/Mukid-Ahsam/HR_Attrition_Dashboard/blob/main/HR%20Attrition%20Dashboard%20Image.png" >View Dashboard<a/>
