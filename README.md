@@ -1,2 +1,3 @@
-# HR_Attrition_Dashboard
-This is an HR Attrition Dashboard that provides a comprehensive overview of employee attrition within an organization, highlighting key demographics and trends built using Excel. it allows HR teams and decision-makers to identify patterns, monitor turnover, and make data-driven strategies for talent retention.
+#HR Attrition Dashboard – Created Using Excel
+##Project Object
+The objective of this project is to analyze employee attrition patterns across various demographics and job roles to help HR teams identify key drivers of turnover. This dashboard provides actionable insights to support strategic decision-making in workforce planning and employee retention.
