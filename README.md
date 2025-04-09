@@ -22,7 +22,7 @@ The objective of this project is to analyze employee attrition patterns across v
 - Filter/Slicer 1: Education Wise
 - Filter/Slicer 2: Department Wise
 
-## Process
+## Process Of The Project
 -	Verify the data for any missing values removed duplicates, standardized formats, and created calculated fields like attrition rate and age groups
 -	Created PivotTables to summarize attrition across departments, job roles, age groups, education, gender, and marital status.
 -	Used bar charts, pie charts, and tree maps to visualize key insights clearly and effectively.
