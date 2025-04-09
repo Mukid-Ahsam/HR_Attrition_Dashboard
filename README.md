@@ -20,5 +20,13 @@ The objective of this project is to analyze employee attrition patterns across v
 - Filter/Slicer 1: Education Wise
 - Filter/Slicer 2: Department Wise
 
+## Process
+-	Verify the data for any missing values removed duplicates, standardized formats, and created calculated fields like attrition rate and age groups
+-	Created PivotTables to summarize attrition across departments, job roles, age groups, education, gender, and marital status.
+-	Used bar charts, pie charts, and tree maps to visualize key insights clearly and effectively.
+-	Added slicers to allow users to filter by department and education level for dynamic data exploration.
+-	Organized KPIs, charts, and visuals into a single dashboard sheet with consistent styling and layout for a professional look.
+
+
 ## Dashboard Interaction
 - <a href="https://github.com/Mukid-Ahsam/HR_Attrition_Dashboard/blob/main/HR%20Attrition%20Dashboard%20Image.png" >View Dashboard<a/>
