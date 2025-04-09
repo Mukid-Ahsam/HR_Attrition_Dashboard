@@ -1,4 +1,6 @@
 # HR Attrition Dashboard (Created Using Microsoft Excel)
+![HR Attrition Dashboard Image](https://github.com/user-attachments/assets/a0fc16eb-05e1-4244-bd16-c45e6c67cad9)
+
 ## Project Objective
 The objective of this project is to analyze employee attrition patterns across various demographics and job roles to help HR teams identify key drivers of turnover. This dashboard provides actionable insights to support strategic decision-making in workforce planning and employee retention.
 
